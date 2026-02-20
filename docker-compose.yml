@@ -5,7 +5,10 @@ services:
     ports:
       - "27017:27017"
     volumes:
-      - ./data:/data
+      - mongo-data:/data/db
       - ./instructors.json:/seed/instructors.json
       - ./courses.json:/seed/courses.json
       - ./load-data.sh:/docker-entrypoint-initdb.d/load-data.sh
+
+volumes:
+  mongo-data:

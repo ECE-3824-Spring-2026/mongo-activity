@@ -129,7 +129,7 @@ instructors = db['instructors']
 ## Cleanup
 
 ```bash
-docker-compose down
+docker-compose down -v
 deactivate
 ```
 
