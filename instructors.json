@@ -1,0 +1,10 @@
+[
+  {"_id": 1, "name": "Alice Chen", "department": "Computer Science", "email": "achen@university.edu", "years_teaching": 12},
+  {"_id": 2, "name": "Bob Martinez", "department": "Electrical Engineering", "email": "bmartinez@university.edu", "years_teaching": 8},
+  {"_id": 3, "name": "Carol Williams", "department": "Computer Science", "email": "cwilliams@university.edu", "years_teaching": 5},
+  {"_id": 4, "name": "David Park", "department": "Mathematics", "email": "dpark@university.edu", "years_teaching": 15},
+  {"_id": 5, "name": "Emma Johnson", "department": "Electrical Engineering", "email": "ejohnson@university.edu", "years_teaching": 3},
+  {"_id": 6, "name": "Frank Lee", "department": "Physics", "email": "flee@university.edu", "years_teaching": 20},
+  {"_id": 7, "name": "Grace Kim", "department": "Computer Science", "email": "gkim@university.edu", "years_teaching": 7},
+  {"_id": 8, "name": "Henry Brown", "department": "Mathematics", "email": "hbrown@university.edu", "years_teaching": 11}
+]

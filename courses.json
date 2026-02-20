@@ -1,0 +1,20 @@
+[
+  {"code": "CS101", "title": "Introduction to Programming", "instructor_id": 1, "credits": 3, "enrollment": 120, "level": "undergraduate", "tags": ["programming", "python", "beginner"]},
+  {"code": "CS201", "title": "Data Structures", "instructor_id": 1, "credits": 3, "enrollment": 85, "level": "undergraduate", "tags": ["programming", "algorithms"]},
+  {"code": "CS301", "title": "Database Systems", "instructor_id": 3, "credits": 3, "enrollment": 45, "level": "undergraduate", "tags": ["databases", "sql", "nosql"]},
+  {"code": "CS401", "title": "Machine Learning", "instructor_id": 7, "credits": 3, "enrollment": 60, "level": "undergraduate", "tags": ["ml", "python", "ai"]},
+  {"code": "CS501", "title": "Advanced Algorithms", "instructor_id": 1, "credits": 3, "enrollment": 25, "level": "graduate", "tags": ["algorithms", "theory"]},
+  {"code": "CS502", "title": "Distributed Systems", "instructor_id": 3, "credits": 3, "enrollment": 30, "level": "graduate", "tags": ["distributed", "networking"]},
+  {"code": "EE101", "title": "Circuit Analysis", "instructor_id": 2, "credits": 4, "enrollment": 95, "level": "undergraduate", "tags": ["circuits", "fundamentals"]},
+  {"code": "EE201", "title": "Digital Logic Design", "instructor_id": 2, "credits": 3, "enrollment": 70, "level": "undergraduate", "tags": ["digital", "hardware"]},
+  {"code": "EE301", "title": "Signal Processing", "instructor_id": 5, "credits": 3, "enrollment": 55, "level": "undergraduate", "tags": ["signals", "dsp", "matlab"]},
+  {"code": "EE401", "title": "Embedded Systems", "instructor_id": 5, "credits": 4, "enrollment": 40, "level": "undergraduate", "tags": ["embedded", "hardware", "programming"]},
+  {"code": "EE501", "title": "Advanced DSP", "instructor_id": 2, "credits": 3, "enrollment": 20, "level": "graduate", "tags": ["signals", "dsp", "research"]},
+  {"code": "MATH101", "title": "Calculus I", "instructor_id": 4, "credits": 4, "enrollment": 200, "level": "undergraduate", "tags": ["calculus", "fundamentals"]},
+  {"code": "MATH201", "title": "Linear Algebra", "instructor_id": 4, "credits": 3, "enrollment": 150, "level": "undergraduate", "tags": ["linear-algebra", "matrices"]},
+  {"code": "MATH301", "title": "Differential Equations", "instructor_id": 8, "credits": 3, "enrollment": 80, "level": "undergraduate", "tags": ["diffeq", "applied"]},
+  {"code": "MATH401", "title": "Probability and Statistics", "instructor_id": 8, "credits": 3, "enrollment": 90, "level": "undergraduate", "tags": ["probability", "statistics"]},
+  {"code": "PHYS101", "title": "Physics I", "instructor_id": 6, "credits": 4, "enrollment": 180, "level": "undergraduate", "tags": ["mechanics", "fundamentals"]},
+  {"code": "PHYS201", "title": "Physics II", "instructor_id": 6, "credits": 4, "enrollment": 140, "level": "undergraduate", "tags": ["electromagnetism", "fundamentals"]},
+  {"code": "PHYS301", "title": "Quantum Mechanics", "instructor_id": 6, "credits": 3, "enrollment": 35, "level": "undergraduate", "tags": ["quantum", "advanced"]}
+]
